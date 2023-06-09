@@ -1,0 +1,1 @@
+add_library(controller_lib SHARED Controller.cpp ${PROJECT_SOURCE_DIR}/client/models/TCPClient.cpp ${PROJECT_SOURCE_DIR}/server/tcpsocket.cpp)

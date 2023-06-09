@@ -1,0 +1,1 @@
+add_library(view_lib SHARED View.cpp)
